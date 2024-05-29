@@ -15,7 +15,6 @@ To build a multiple linear regression model for the prediction of demand for sha
 
 ## Methodologies Used
 * Data cleaning
-* Exploratory Data Analysis(EDA)
 * Data Visualization 
 * Model Building
 * Residual Analysis
@@ -30,18 +29,21 @@ To build a multiple linear regression model for the prediction of demand for sha
 
 ## Final Result
 
-Test data r^2 : 70.87
+Test data r^2 : 77.72
+Train data r^2 : 79.27
 
-Train data r^2 : 71.89
+Adjusted Test Data r^2 : 74.3
+Adjusted Train Data r^2 : 78.86
 
 As per our final Model, the below predictor variables influences bike booking :
 
-1. Wind speed
-2. Season - Spring,Summer and Winter
-3. Year - 2019
-4. Weekday - Sunday
-5. Moderate Weather
-6. September Month
+1. Temperature
+2. Wind speed
+3. Season - Spring,Summer and Winter
+4. Year - 2019
+5. Weekday - Sunday
+6. Moderate Weather
+7. September Month
 
 # Contributors
 * Swati Gupta Jain
