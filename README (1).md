@@ -30,9 +30,11 @@ To build a multiple linear regression model for the prediction of demand for sha
 ## Final Result
 
 Test data r^2 : 77.72
+
 Train data r^2 : 79.27
 
 Adjusted Test Data r^2 : 74.3
+
 Adjusted Train Data r^2 : 78.86
 
 As per our final Model, the below predictor variables influences bike booking :
